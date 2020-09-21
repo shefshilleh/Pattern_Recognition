@@ -1,0 +1,129 @@
+Albany, N.Y.                  
+Albuquerque, N.M.             
+Amarillo, Tex.                
+Anchorage, Alaska             
+Atlanta, Ga.                  
+Austin, Tex.                  
+Baker, Ore.                   
+Baltimore, Md.                
+Bangor, Maine                 
+Birmingham, Ala.              
+Bismarck, N.D.                
+Boise, Idaho                  
+Boston, Mass.                 
+Buffalo, N.Y.                 
+Calgary, Alba., Can.          
+Carlsbad, N.M.                
+Charleston, S.C.              
+Charleston, W. Va.            
+Charlotte, N.C.               
+Cheyenne, Wyo.                
+Chicago, Ill.                 
+Cincinnati, Ohio              
+Cleveland, Ohio               
+Columbia, S.C.                
+Columbus, Ohio                
+Dallas, Tex.                  
+Denver, Colo.                 
+Des Moines, Iowa              
+Detroit, Mich.                
+Dubuque, Iowa                 
+Duluth, Minn.                 
+Eastport, Maine               
+Edmonton, Alb., Can.          
+El Centro, Calif.             
+El Paso, Tex.                 
+Eugene, Ore.                  
+Fargo, N.D.                   
+Flagstaff, Ariz.              
+Fort Worth, Tex.              
+Fresno, Calif.                
+Grand Junction, Colo.         
+Grand Rapids, Mich.           
+Havre, Mont.                  
+Helena, Mont.                 
+Honolulu, Hawaii              
+Hot Springs, Ark.             
+Houston, Tex.                 
+Idaho Falls, Idaho            
+Indianapolis, Ind.            
+Jackson, Miss.                
+Jacksonville, Fla.            
+Juneau, Alaska                
+Kansas City, Mo.              
+Key West, Fla.                
+Kingston, Ont., Can.          
+Klamath Falls, Ore.           
+Knoxville, Tenn.              
+Las Vegas, Nev.               
+Lewiston, Idaho               
+Lincoln, Neb.                 
+London, Ont., Can.            
+Long Beach, Calif.            
+Los Angeles, Calif.           
+Louisville, Ky.               
+Manchester, N.H.              
+Memphis, Tenn.                
+Miami, Fla.                   
+Milwaukee, Wis.               
+Minneapolis, Minn.            
+Mobile, Ala.                  
+Montgomery, Ala.              
+Montpelier, Vt.               
+Montreal, Que., Can.          
+Moose Jaw, Sask., Can.        
+Nashville, Tenn.              
+Nelson, B.C., Can.            
+Newark, N.J.                  
+New Haven, Conn.              
+New Orleans, La.              
+New York, N.Y.                
+Nome, Alaska                  
+Oakland, Calif.               
+Oklahoma City, Okla.          
+Omaha, Neb.                   
+Ottawa, Ont., Can.            
+Philadelphia, Pa.             
+Phoenix, Ariz.                
+Pierre, S.D.                  
+Pittsburgh, Pa.               
+Portland, Maine               
+Portland, Ore.                
+Providence, R.I.              
+Quebec, Que., Can.            
+Raleigh, N.C.                 
+Reno, Nev.                    
+Richfield, Utah               
+Richmond, Va.                 
+Roanoke, Va.                  
+Sacramento, Calif.            
+St. John, N.B., Can.          
+St. Louis, Mo.                
+Salt Lake City, Utah          
+San Antonio, Tex.             
+San Diego, Calif.             
+San Francisco, Calif.         
+San Jose, Calif.              
+San Juan, P.R.                
+Santa Fe, N.M.                
+Savannah, Ga.                 
+Seattle, Wash.                
+Shreveport, La.               
+Sioux Falls, S.D.             
+Sitka, Alaska                 
+Spokane, Wash.                
+Springfield, Ill.             
+Springfield, Mass.            
+Springfield, Mo.              
+Syracuse, N.Y.                
+Tampa, Fla.                   
+Toledo, Ohio                  
+Toronto, Ont., Can.           
+Tulsa, Okla.                  
+Vancouver, B.C., Can.         
+Victoria, B.C., Can.          
+Virginia Beach, Va.           
+Washington, D.C.              
+Wichita, Kan.                 
+Wilmington, N.C.              
+Winnipeg, Man., Can.          
